@@ -13,7 +13,7 @@ A collection of Python projects I built while learning programming from scratch.
 | 01 | [🔢 Number Guessing Game](./number-guessing-game/) | Guess a secret number between 1–100 with high/low hints | `random`, loops, error handling |
 | 02 | [✅ Todo App](./todo/) | CLI task manager that saves tasks to a JSON file | File I/O, JSON, functions |
 | 03 | [🌤️ Weather App](./weather-app/) | GUI app showing live weather for any city worldwide | APIs, Tkinter, geopy |
-
+| 04 | [✂️ Stone Paper Scissor](./stone-paper-scissor/) | Classic game against the computer in the terminal | random, conditionals, .lower() |
 ---
 
 ## 🛠️ Tech Stack
@@ -45,11 +45,10 @@ I started with zero programming experience. Here is what I have picked up so far
 | Project | Description |
 |---|---|
 | 💰 Expense Tracker | Log daily spending and see a summary |
-| ✂️ Stone Paper Scissor | Classic game against the computer |
 | 🌐 Web Scraper | Pull live data from websites using BeautifulSoup |
 | 📊 Data Visualisation | Plot charts and graphs with matplotlib |
 
----
+--
 
 ## 📂 Repo Structure
 
