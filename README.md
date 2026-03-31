@@ -14,6 +14,7 @@ A collection of Python projects I built while learning programming from scratch.
 | 02 | [✅ Todo App](./todo/) | CLI task manager that saves tasks to a JSON file | File I/O, JSON, functions |
 | 03 | [🌤️ Weather App](./weather-app/) | GUI app showing live weather for any city worldwide | APIs, Tkinter, geopy |
 | 04 | [✂️ Stone Paper Scissor](./stone-paper-scissor/) | Classic game against the computer in the terminal | random, conditionals, .lower() |
+| 04 | [🔳 QR Code Generator](./qr-code-generator/) | Generate custom QR codes for any link or text with custom colours and size | qrcode, f-strings, os |
 ---
 
 ## 🛠️ Tech Stack
