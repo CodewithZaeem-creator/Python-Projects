@@ -15,6 +15,7 @@ A collection of Python projects I built while learning programming from scratch.
 | 03 | [🌤️ Weather App](./weather-app/) | GUI app showing live weather for any city worldwide | APIs, Tkinter, geopy |
 | 04 | [✂️ Stone Paper Scissor](./stone-paper-scissor/) | Classic game against the computer in the terminal | random, conditionals, .lower() |
 | 04 | [🔳 QR Code Generator](./qr-code-generator/) | Generate custom QR codes for any link or text with custom colours and size | qrcode, f-strings, os |
+| 05 | [📰 News Headline Scraper](./news-scraper/) | Scrapes live tech headlines from Hacker News and saves them to a timestamped file | `requests`, `BeautifulSoup`, `datetime` |
 ---
 
 ## 🛠️ Tech Stack
