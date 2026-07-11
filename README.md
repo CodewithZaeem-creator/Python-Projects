@@ -40,16 +40,6 @@ I started with zero programming experience. Here is what I have picked up so far
 - ✅ Git and GitHub — version control and pushing real projects
 - ⏳ Next — data structures, automation, and web scraping
 
----
-
-## 🚀 Coming Soon
-
-| Project | Description |
-|---|---|
-| 💰 Expense Tracker | Log daily spending and see a summary |
-| 🌐 Web Scraper | Pull live data from websites using BeautifulSoup |
-| 📊 Data Visualisation | Plot charts and graphs with matplotlib |
-
 --
 
 ## 📂 Repo Structure
