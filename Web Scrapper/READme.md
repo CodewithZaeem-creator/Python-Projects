@@ -76,7 +76,7 @@ The headlines will print on screen and a `.txt` file will open automatically. �
 
 | Requirement | Notes |
 |---|---|
-| Python 3.9+ | Download from [python.org](https://www.python.org) |
+| Python 3.14| Download from [python.org](https://www.python.org) |
 | `requests` | Install via pip — fetches the webpage |
 | `beautifulsoup4` | Install via pip — reads the HTML |
 | `datetime` | Built-in — nothing to install |
