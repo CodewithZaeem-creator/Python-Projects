@@ -1,6 +1,6 @@
 # 🐍 Python Projects
 
-A collection of Python projects I built while learning programming from scratch. Each one is a real, working app — not just tutorial code.
+A collection of Python projects I built while learning programming from scratch. Each project is a practical way to learn a new programming concept by building something that actually works.
 
 > Started with zero experience. Building my way up one project at a time. 🚀
 
@@ -10,56 +10,56 @@ A collection of Python projects I built while learning programming from scratch.
 
 | # | Project | Description | Topics Learned |
 |---|---|---|---|
-| 01 | [🔢 Number Guessing Game](./number-guessing-game/) | Guess a secret number between 1–100 with high/low hints | `random`, loops, error handling |
-| 02 | [✅ Todo App](./todo/) | CLI task manager that saves tasks to a JSON file | File I/O, JSON, functions |
-| 03 | [🌤️ Weather App](./weather-app/) | GUI app showing live weather for any city worldwide | APIs, Tkinter, geopy |
-| 04 | [✂️ Stone Paper Scissor](./stone-paper-scissor/) | Classic game against the computer in the terminal | random, conditionals, .lower() |
-| 04 | [🔳 QR Code Generator](./qr-code-generator/) | Generate custom QR codes for any link or text with custom colours and size | qrcode, f-strings, os |
-| 05 | [📰 News Headline Scraper](./news-scraper/) | Scrapes live tech headlines from Hacker News and saves them to a timestamped file | `requests`, `BeautifulSoup`, `datetime` |
+| 01 | [🔢 Number Guessing Game](./Number%20gussing%20game/) | Guess a secret number with high/low hints | `random`, loops, conditionals |
+| 02 | [📝 Todo App](./Todo.py) | Simple command-line task manager | Lists, loops, functions, input |
+| 03 | [🌤️ Weather App](./weather_app/) | Weather application built with Python | APIs, GUI, data handling |
+| 04 | [✂️ Stone Paper Scissor](./Stone-Paper-Scissor/) | Classic game against the computer | `random`, conditionals, input |
+| 05 | [🔳 QR Code Generator](./Qr-code-generater/) | Generate QR codes from text or links | `qrcode`, strings, files |
+| 06 | [📰 Web Scraper](./Web%20Scrapper/) | Practice collecting information from websites | HTTP requests, parsing, web scraping |
+| 07 | [🎮 Tic-Tac-Toe](./tic-tac-toe/) | Play Tic-Tac-Toe against a computer opponent | Functions, lists, game logic, `random` |
+
 ---
 
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-informational?style=flat)
-![JSON](https://img.shields.io/badge/Storage-JSON-yellow?style=flat)
-![Open-Meteo](https://img.shields.io/badge/API-Open--Meteo-blue?style=flat)
+![APIs](https://img.shields.io/badge/APIs-Python-blue?style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github)
 
 ---
 
 ## 🌱 My Learning Journey
 
-I started with zero programming experience. Here is what I have picked up so far:
+I started with zero programming experience. This repository documents my progress from basic Python programs toward more practical projects.
 
 - ✅ Python basics — variables, loops, functions, conditionals
-- ✅ Error handling — `try/except` so apps don't crash on bad input
-- ✅ Working with files — reading and writing JSON for persistent storage
-- ✅ Calling real APIs — fetching live data from the internet
-- ✅ Building GUIs — desktop windows with Tkinter
-- ✅ Git and GitHub — version control and pushing real projects
-- ⏳ Next — data structures, automation, and web scraping
+- ✅ Error handling and input validation
+- ✅ Working with files and data
+- ✅ Calling real APIs
+- ✅ Building GUI applications with Tkinter
+- ✅ Web scraping fundamentals
+- ✅ Building games and implementing game logic
+- ✅ Git and GitHub — version control and publishing projects
+- ⏳ Next — data structures, automation, algorithms, and more advanced projects
 
---
+---
 
-## 📂 Repo Structure
+## 📂 Repository Structure
 
-```
+```text
 Python-Projects/
 │
-├── number-guessing-game/
-│   ├── guessing_game.py
+├── Number gussing game/
+├── Qr-code-generater/
+├── Stone-Paper-Scissor/
+├── Todo.py
+├── Web Scrapper/
+├── weather_app/
+├── tic-tac-toe/
+│   ├── tic_tac_toe.py
 │   └── README.md
-│
-├── todo/
-│   ├── todo.py
-│   └── README.md
-│
-├── weather-app/
-│   ├── weather_app.py
-│   └── README.md
-│
-└── README.md  ← you are here
+└── README.md
 ```
 
 ---
@@ -68,8 +68,8 @@ Python-Projects/
 
 - 🐙 GitHub: [CodewithZaeem-creator](https://github.com/CodewithZaeem-creator)
 
-If you are also a beginner learning Python, feel free to fork any project, open an issue, or just say hi. Always happy to connect with fellow learners!
+If you are also learning Python, feel free to explore the projects and use them as inspiration for your own learning.
 
 ---
 
-*Updated regularly as I keep learning and building. ⭐ Star this repo if you find it useful!*
+*Updated regularly as I keep learning and building. ⭐*
