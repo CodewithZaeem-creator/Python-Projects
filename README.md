@@ -17,6 +17,7 @@ A collection of Python projects I built while learning programming from scratch.
 | 05 | [🔳 QR Code Generator](./Qr-code-generater/) | Generate QR codes from text or links | `qrcode`, strings, files |
 | 06 | [📰 Web Scraper](./Web%20Scrapper/) | Practice collecting information from websites | HTTP requests, parsing, web scraping |
 | 07 | [🎮 Tic-Tac-Toe](./tic-tac-toe/) | Play Tic-Tac-Toe against a computer opponent | Functions, lists, game logic, `random` |
+| 08 | [💱 Currency Converter](./currency-converter/) | Convert between 29 currencies from the command line | Dictionaries, `Decimal`, validation, calculations |
 
 ---
 
@@ -40,8 +41,10 @@ I started with zero programming experience. This repository documents my progres
 - ✅ Building GUI applications with Tkinter
 - ✅ Web scraping fundamentals
 - ✅ Building games and implementing game logic
+- ✅ Working with dictionaries and structured data
+- ✅ Numerical calculations with `decimal.Decimal`
 - ✅ Git and GitHub — version control and publishing projects
-- ⏳ Next — data structures, automation, algorithms, and more advanced projects
+- ⏳ Next — data structures, automation, algorithms, live APIs, and more advanced projects
 
 ---
 
@@ -58,6 +61,9 @@ Python-Projects/
 ├── weather_app/
 ├── tic-tac-toe/
 │   ├── tic_tac_toe.py
+│   └── README.md
+├── currency-converter/
+│   ├── currency_converter.py
 │   └── README.md
 └── README.md
 ```
