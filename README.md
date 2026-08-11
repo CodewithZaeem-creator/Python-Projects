@@ -18,6 +18,7 @@ A collection of Python projects I built while learning programming from scratch.
 | 06 | [📰 Web Scraper](./Web%20Scrapper/) | Practice collecting information from websites | HTTP requests, parsing, web scraping |
 | 07 | [🎮 Tic-Tac-Toe](./tic-tac-toe/) | Play Tic-Tac-Toe against a computer opponent | Functions, lists, game logic, `random` |
 | 08 | [💱 Currency Converter](./currency-converter/) | Convert between 29 currencies from the command line | Dictionaries, `Decimal`, validation, calculations |
+| 09 | [🤖 NOVA Terminal](./nova-terminal/) | Futuristic interactive terminal with system tools, memory, calculator, games, and more | CLI design, `ast`, system modules, parsing |
 
 ---
 
@@ -44,6 +45,7 @@ I started with zero programming experience. This repository documents my progres
 - ✅ Working with dictionaries and structured data
 - ✅ Numerical calculations with `decimal.Decimal`
 - ✅ Git and GitHub — version control and publishing projects
+- ✅ Building interactive CLI applications
 - ⏳ Next — data structures, automation, algorithms, live APIs, and more advanced projects
 
 ---
@@ -64,6 +66,9 @@ Python-Projects/
 │   └── README.md
 ├── currency-converter/
 │   ├── currency_converter.py
+│   └── README.md
+├── nova-terminal/
+│   ├── nova.py
 │   └── README.md
 └── README.md
 ```
