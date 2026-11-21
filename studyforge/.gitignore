@@ -1,0 +1,4 @@
+# Personal study deck (may contain private notes)
+cards.json
+__pycache__/
+*.py[cod]
