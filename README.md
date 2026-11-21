@@ -20,7 +20,7 @@ A collection of Python projects I built while learning programming from scratch.
 | 08 | [💱 Currency Converter](./currency-converter/) | Convert between 29 currencies from the command line | Dictionaries, `Decimal`, validation, calculations |
 | 09 | [🤖 NOVA Terminal](./nova-terminal/) | Futuristic interactive terminal with system tools, memory, calculator, games, and more | CLI design, `ast`, system modules, parsing |
 | 10 | [🟢 Matrix Mode](./matrix-mode/) | Terminal digital-rain animation | Terminal control, loops, timing |
-| 11 | [⚛️ Quantum Command Center](./quantum-command-center/) | Modular sci-fi CLI with diagnostics, memory, safe calculator, missions, and command system | Modules, `ast`, system info, CLI architecture |
+| 11 | [⚛️ Quantum Command Center](./quantum-command-center/) | Modular sci-fi CLI with diagnostics, memory, safe calculator, missions, and command system | Modules, `ast`, system info, CLI architecture |\n| 12 | [📚 StudyForge](./studyforge/) | Local-first flashcard trainer with spaced reviews and study statistics | JSON, dates, data structures, functions, spaced repetition |
 
 ---
 
@@ -46,7 +46,7 @@ I started with zero programming experience. This repository documents my progres
 - ✅ Numerical calculations with `decimal.Decimal`
 - ✅ Git and GitHub
 - ✅ Interactive CLI applications
-- ✅ Modular Python project architecture
+- ✅ Modular Python project architecture\n- ✅ JSON persistence and spaced-review scheduling
 - ⏳ Next — data structures, automation, algorithms, live APIs, testing, and larger applications
 
 ---
